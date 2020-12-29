@@ -5,7 +5,7 @@ def passvalue1():
     var.set(dice_generator.dice1())
 
 def passvalue2():
-    var.set(dice_generator.dice1())
+    var.set(dice_generator.dice2())
 
 gui = Tk()
 gui.geometry("300x300")
